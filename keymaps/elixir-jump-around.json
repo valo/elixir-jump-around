@@ -1,0 +1,5 @@
+{
+  "atom-text-editor[data-grammar='source elixir']": {
+    "alt-g alt-t": "elixir-jump-around:toggle-test-file"
+  }
+}

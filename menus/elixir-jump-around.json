@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle test file and the module definiton",
+        "command": "elixir-jump-around:toggle-test-file"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "elixir-jump-around",
+          "submenu": [
+            {
+              "label": "Toggle Test File",
+              "command": "elixir-jump-around:toggle-test-file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

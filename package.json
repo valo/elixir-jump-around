@@ -1,0 +1,18 @@
+{
+  "name": "elixir-jump-around",
+  "main": "./lib/elixir-jump-around",
+  "version": "0.1.0",
+  "description": "Jump between modules and tests in an elixir mix projects",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "elixir-jump-around:toggle-test-file"
+  },
+  "repository": "https://github.com/valo/elixir-jump-around",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
