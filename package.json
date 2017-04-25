@@ -1,7 +1,7 @@
 {
   "name": "elixir-jump-around",
   "main": "./lib/elixir-jump-around",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Jump between modules and tests in an elixir mix projects",
   "keywords": [],
   "activationCommands": {
