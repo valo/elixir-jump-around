@@ -1,10 +1,9 @@
 {
   "name": "elixir-jump-around",
   "main": "./lib/elixir-jump-around",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Jump between modules and tests in an elixir mix projects",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "elixir-jump-around:toggle-test-file"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
