@@ -1,4 +1,5 @@
 # elixir-jump-around package
+![Build Status](https://travis-ci.org/valo/elixir-jump-around.svg?branch=master)
 
 A plugin which allows to jump between the module and its tests in a mix project. By default the keybinding for the toggle is with `Alt-g Alt-t` (mnemonic for "Goto Test").
 
